@@ -1,10 +1,13 @@
-<table align="center">
-   Hi there, I'm Damião Junior 👋
-   I'm based in Porto Alegre, Brazil. 📍
+<div align="center">
+ <h1> 
+  Hi there, I'm Damião Junior 👋
+  I'm based in Porto Alegre, Brazil. 📍
 
    - 🌱 I’m currently improving my Kotlin skills.
    - 💻 Intern at [@softdesign](https://www.instagram.com/softdesignbrasil/)
    - 📕 Studying Computer Science at [@uniritter](https://www.uniritter.edu.br/)
+ </h1>
+</div>
 
    <p align="center">
       <a href="https://www.linkedin.com/in/damiaojuniordev/">
