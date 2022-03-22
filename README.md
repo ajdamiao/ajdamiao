@@ -1,15 +1,17 @@
-### Hi there, I'm Damião Junior 👋
-I'm based in Porto Alegre, Brazil. 📍
+<table align="center">
+   Hi there, I'm Damião Junior 👋
+   I'm based in Porto Alegre, Brazil. 📍
 
-- 🌱 I’m currently improving my Kotlin skills.
-- 💻 Intern at [@softdesign](https://www.instagram.com/softdesignbrasil/)
-- 📕 Studying Computer Science at [@uniritter](https://www.uniritter.edu.br/)
+   - 🌱 I’m currently improving my Kotlin skills.
+   - 💻 Intern at [@softdesign](https://www.instagram.com/softdesignbrasil/)
+   - 📕 Studying Computer Science at [@uniritter](https://www.uniritter.edu.br/)
 
-<p align="center">
-   <a href="https://www.linkedin.com/in/damiaojuniordev/">
-    <img alt="logo Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white/">
-  </a>
-</p>
+   <p align="center">
+      <a href="https://www.linkedin.com/in/damiaojuniordev/">
+       <img alt="logo Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white/">
+     </a>
+   </p>
+</table> 
 
 <p align="center">
 <a href="https://developer.android.com" target="_blank"> <img alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
