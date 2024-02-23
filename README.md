@@ -2,7 +2,7 @@
   Hi there, I'm Damião Junior 👋
   I'm based in Porto Alegre, Brazil. 📍
 
-   - 🌱 I’m currently improving my Kotlin skills.
+   - 🌱 I’m currently improving my mobile development skills using Kotlin and Flutter.
    - 💻 Intern at [@softdesign](https://www.instagram.com/softdesignbrasil/) as Android Developer
    - 📕 Studying Computer Science at [@uniritter](https://www.uniritter.edu.br/)
  </h1>
