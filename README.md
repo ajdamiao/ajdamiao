@@ -20,15 +20,4 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 </p>
-  
-<table align="center">
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=ajdamiao&show_icons=true&theme=react'>
-    </td>
-    <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ajdamiao&layout=compact&theme=react'>
-    </td>
-  </row>  
-</table> 
+ 
