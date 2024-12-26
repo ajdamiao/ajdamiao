@@ -4,7 +4,6 @@
 
    - 🌱 I’m currently improving my mobile development skills using Kotlin and Flutter.
    - 💻 Intern at [@softdesign](https://www.instagram.com/softdesignbrasil/) as Android Developer
-   - 📕 Studying Computer Science at [@uniritter](https://www.uniritter.edu.br/)
  </h1>
 
 <p align="center">
