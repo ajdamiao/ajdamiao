@@ -1,9 +1,11 @@
  <h4 align="center"> 
-  Hi there, I'm Damião Junior 👋
-  I'm based in Porto Alegre, Brazil. 📍
+Hi there, I'm Damião Junior 👋
+I'm based in Porto Alegre, Brazil. 📍
 
-   - 🌱 I’m currently improving my mobile development skills using Kotlin and Flutter.
-   - 💻 Intern at [@softdesign](https://www.instagram.com/softdesignbrasil/) as Android Developer
+- 🌱 I’m currently improving my skills in Data Science and Artificial Intelligence, using Python to explore topics like LLMs, Long-term Memory, and AI agents.
+- 💻 Junior Android Software Engineer at @softdesign.
+- 📱 Experienced in mobile development using Flutter and native Android (Kotlin).
+
  </h1>
 
 <p align="center">
