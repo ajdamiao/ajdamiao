@@ -2,7 +2,7 @@
 Hi there, I'm Damião Junior 👋
 I'm based in Porto Alegre, Brazil. 📍
 
-- 🌱 I’m currently improving my skills in Data Science and Artificial Intelligence, using Python to explore topics like LLMs, Long-term Memory, and AI agents.
+- 🌱 I’m currently improving my skills in Data Science and Artificial Intelligence, using Python to explore topics like MCP, LLMs, Long-term Memory, and AI agents.
 - 💻 Junior Android Software Engineer at @softdesign.
 - 📱 Experienced in mobile development using Flutter and native Android (Kotlin, Java).
 
