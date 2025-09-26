@@ -1,6 +1,6 @@
 <h4 align="center"> 
 Hi there, I'm Damião Junior 👋  
-I'm based in Porto Alegre, Brazil. 📍
+I'm based in São Paulo, Brazil. 📍
 </h4>
 
 - 🌱 I’m currently exploring **Artificial Intelligence**, creating **AI agents**, **MCP servers**, and backends with **Python**.  
