@@ -43,6 +43,6 @@ I'm based in São Paulo, Brazil. 📍
     <img alt="AWS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"/>
   </a>
   <a href="https://www.terraform.io/" target="_blank">
-    <img alt="Terraform" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/terraform/terraform.svg"/>
+    <img alt="Terraform" height="42px" src="[/terraform.svg](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png)"/>
   </a>
 </p>
